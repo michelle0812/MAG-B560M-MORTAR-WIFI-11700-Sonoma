@@ -26,3 +26,7 @@
     <td>系統</td><td>macOS Sonoma 14.1.2 + OpenCore 0.9.6</td>
   </tr>  
 </table>
+<img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png"><br>
+<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/e4651f79-865c-4da3-bb0b-d2ec176176bb">
+<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/68f8cd75-956a-49af-8f46-45e4dc657d1d"><br>
+
