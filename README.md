@@ -22,7 +22,7 @@
     <td>固態硬碟</td><td>Crucial P5 Plus 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Sonoma 14.1.2 + OpenCore 0.9.6</td>
+    <td>系統</td><td>macOS Sonoma 14.3.1 + OpenCore 0.9.9</td>
   </tr>  
 </table>
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png"><br>
