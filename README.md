@@ -28,15 +28,12 @@
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png"><br>
 
 
-<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/b25f0a01-2be5-49d7-bc76-8aa8fab5989b">
-<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/2c8f8b64-28a7-4480-b417-aeb1909bdaab"><br>
+<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/762e297f-9463-4d4e-a3ac-df3d9570e55d">
+<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/b1e4b4d8-3c49-4b8d-b6c6-16f92fa6afa0"><br>
 <img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/e8acbff5-6afc-4eda-93a6-2f3cea6fe031">
 <img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/fe140b87-7ad5-4425-bb51-dbad7fb1c1b3"><br>
-<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/98c3f368-3bf8-426e-be38-e9c4f0e6cf73">
-<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/cb942625-9d53-4294-9a56-a2fa921f454b"><br>
-
-
-
+<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/726f517c-8feb-4a26-8694-d8ffbf385018">
+<img width="450" src="https://github.com/michelle0812/MAG-B560M-MORTAR-WIFI-11700-Sonoma/assets/79300809/d02b99ec-81b6-4001-8a69-be6ac2d78d51"><br>
 
 
 
